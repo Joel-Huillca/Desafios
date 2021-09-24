@@ -2,7 +2,7 @@
 """
 Created on Tue Oct 24 16:08:21 2017
 
-@author: Vuctor
+@author: 
 """
 Día = int(input("ingrese su día de nacimiento: "))
 Mes = input("ingresa su mes de nacimiento: ")
