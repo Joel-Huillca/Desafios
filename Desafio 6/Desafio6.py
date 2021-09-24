@@ -6,8 +6,6 @@ Created on Mon Oct 30 17:11:38 2017
 """
 print("Bienvenido!")
 
-
-
 Ancho = []
 Alto  = []
 Punto=[]
