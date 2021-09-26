@@ -1,0 +1,5 @@
+II Region de Antofagasta,Calama,2853
+II Region de Antofagasta,Antofagasta,0717
+IV Region de Coquimbo,La Serena,3219
+V Region de Valparaiso,Valparaiso,3442
+Region Metropolitana,Santiago,1021
